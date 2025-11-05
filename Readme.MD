@@ -1,4 +1,4 @@
-Customer-Shopping-Trend-Analysis-Dashboard
+** Customer-Shopping-Trend-Analysis-Dashboard **
 
 1. Project Overview
 This project analyzes customer shopping behavior using transactional data from 3,900
